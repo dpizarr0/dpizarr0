@@ -8,7 +8,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Dylan Alejandro Pizarro</h1>
+<h1 align="center">Hi 👋, I'm Dylan Pizarro Arias</h1>
 
 <h3 align="center">
   Systems Engineering Student | Software Developer from Colombia 🇨🇴
