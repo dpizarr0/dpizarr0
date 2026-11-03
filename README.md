@@ -36,8 +36,11 @@
 <h2>🌐 Connect with Me</h2>
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.linkedin.com/in/dylan-pizarro-arias-9a37b4448/"/>
+  <a href="https://www.linkedin.com/in/dylan-pizarro-arias-9a37b4448/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/dpizarro0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -47,7 +50,7 @@
 <h2>🛠️ Languages and Tools</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,scala,python,html,css,git,github,,vscode,idea,linux" alt="Technologies"/>
+  <img src="https://skillicons.dev/icons?i=java,scala,python,html,css,git,github,vscode,idea,linux" alt="Technologies"/>
 </p>
 
 
